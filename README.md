@@ -1,4 +1,5 @@
 ## Steup
+Folder structure to develop Near smart contract using assembly language.
 
 ### Project
 
